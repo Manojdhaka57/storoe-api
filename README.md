@@ -1,5 +1,11 @@
 # Store API
 
+## [Live api link](https://store-api-g7gg.onrender.com/api/v1/products)
+
+```
+https://store-api-g7gg.onrender.com/api/v1/products
+```
+
 ## Tech
 
 ```tech
