@@ -38,7 +38,7 @@ You can set these environment variables in a `.env` file or through your hosting
 Example `.env` file:
 
 ```env
-MONGODB_URI=mongodb://localhost:27017/your_database
+MONGO_URI=mongodb://localhost:27017/your_database
 PORT=3000
 ```
 
@@ -46,9 +46,8 @@ PORT=3000
 
 This API endpoint retrieves a list of products based on various query parameters. It supports filtering by product features, company name, product name, numeric filters (for fields like price and rating), sorting, selecting specific fields, and pagination.
 
-## Usage
+## Request
 
-- Request
 - Method: GET
 - Endpoint: /api/v1/products
 
